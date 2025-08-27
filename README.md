@@ -1,4 +1,4 @@
-# 👋 Hey Everyone, I'm Arsidh  
+# 👋 Hey Everyone, I'm Theeran  
 
 💻 Full Stack Developer | React & Spring Boot  
 🚀 Passionate about coding and building impactful projects  
