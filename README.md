@@ -13,7 +13,7 @@
 ---
 
 ### 🌐 Social Presence  
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/theeran-a-/)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/theeran-a-/)
 [<img src="https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/itz__me__theeran/)  
 
 ---
