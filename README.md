@@ -42,7 +42,7 @@
   <img height="45" src="https://zohowebstatic.com/sites/default/files/ogimage/catalyst-logo.png"/> 
   <img height="45" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/> 
   <img height="45" src="https://cdn.sanity.io/images/34ent8ly/production/ec37a3660704e1fa2b4246c9a01ab34e145194ad-824x824.png" />
-  <img height="45" style="background-color:white;" src="https://static.wikia.nocookie.net/logopedia/images/a/a7/Vercel_favicon.svg/revision/latest?cb=20221026155821" />
+  <img height="45" src="https://pipedream.com/s.v0/app_XaLh2x/logo/orig" alt="Vercel" />
   <img height="45" src="https://img.icons8.com/ultraviolet/40/api-settings.png" alt="api-settings"/>
 </p>
 
